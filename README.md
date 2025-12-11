@@ -2,13 +2,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shivakumar+👋;Aspiring+Full+Stack+Developer+🚀;CSE+Student+%40+RIT+📚" alt="Typing SVG" />
 </p>
-<!-- Custom Banner -->
+
+<!-- Master Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shiva-0822/Shiva-0822/main/link.jpeg" alt="Shivakumar Banner" />
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHeader" />
 </p>
 
+<!-- Custom Banner -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Shiva-0822/Shiva-0822/main/link.jpeg" alt="Shivakumar Banner" />
+</p> -->
 
 ---
+
  ✨ About Me  
 - 🔭 Currently learning **Web Development Frameworks, Python**   
 - 🎓 3rd-year **CSE Student @ Rajeev Institute of Technology** (8.6 CGPA)  
@@ -26,19 +32,18 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-0822&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-0822&theme=tokyonight&hide_border=true" alt="GitHub streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-0822&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-0822&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-0822&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-0822&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-<!-- GitHub Trophies - Colorful -->
+
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiva-0822&theme=radical&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiva-0822&theme=radical&row=1&column=7&margin-w=10&margin-h=10" />
 </p>
-
-
 
 ---
 
@@ -48,17 +53,15 @@
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <!-- LinkedIn -->
+
   <a href="https://www.linkedin.com/in/m-shivakumar-498b07350/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <!-- Email -->
   <a href="mailto:mshivakumar0830@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 <!-- Footer Banner -->
 <p align="center">
