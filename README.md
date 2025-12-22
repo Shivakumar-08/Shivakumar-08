@@ -48,22 +48,19 @@
 
 
 
+<h2>🌐 Connect with Me</h2>
 
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/m-shivakumar-498b07350/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
   </a>
 
-  <a href="https://www.linkedin.com/in/m-shivakumar-498b07350/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
   <a href="mailto:mshivakumar0830@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" />
   </a>
 </p>
+
+
 
 <!-- Footer Banner -->
 <p align="center">
