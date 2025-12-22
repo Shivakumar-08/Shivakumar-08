@@ -29,23 +29,25 @@
 
 ---
 
-## 📊 GitHub Stats  
+<div align="center">
+  <h3>📊 GRAND LINE STATS</h3>
+  <table width="100%">
+    <tr>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Shivakumar-08&show_icons=true&theme=dracula&hide_border=true&count_private=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117" width="100%" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-08&theme=dracula&layout=compact&hide_border=true&title_color=FDE047&icon_color=FDE047&bg_color=0D1117" width="100%" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="https://nirzak-streak-stats.vercel.app/?user=Shivakumar-08&theme=dracula&hide_border=true&stroke=FDE047&ring=B91C1C&fire=FDE047&background=0D1117" width="100%" /></td>
+      <td width="50%"><img src="https://leetcard.jacoblin.cool/Shivakumar-08?theme=dark&font=Pirata+One&font_color=FDE047&border_color=B91C1C" width="100%" /></td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-0822&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-0822&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-0822&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiva-0822&theme=radical&row=1&column=7&margin-w=10&margin-h=10" />
-</p>
 
----
+
 
 ## 🌍 Connect With Me  
 
