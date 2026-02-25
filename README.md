@@ -71,9 +71,9 @@ const Shiv = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivakumar-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7F3FBF&border_radius=10" alt="Pulitha's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivakumar-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7F3FBF&border_radius=10" alt="Shivakumar's GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-08&layout=compact&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Pulitha's Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar-08&layout=compact&theme=tokyonight&border_color=7F3FBF&border_radius=10" alt="Shivakumar's Top Languages"/>
 
 </div>
 
